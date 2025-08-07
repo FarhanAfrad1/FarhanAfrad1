@@ -1,17 +1,14 @@
 ![Banner](https://raw.githubusercontent.com/FarhanAfrad1/FarhanAfrad1/main/banner.jpg)
 
 
-<!--
-**FarhanAfrad1/FarhanAfrad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Farhan Shahriar Afrad
 
-Here are some ideas to get you started:
+🎓 Final year Computer Science student | 💻 Frontend Web Developer (React.js, Tailwind CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm passionate about building clean, modern web applications with a strong focus on user experience and performance.  
+🧠 Currently learning: **Data Structures & Algorithms**, **Machine Learning**, and advancing my full-stack skills (MERN).  
+📚 I’ve completed a professional frontend web dev course and built several real-world projects.
+
+🔐 I’m also exploring AI-powered apps.
+
+📫 Reach me at: farhan.tanmoy13@gmail.com | 🌍 Based in Bangladesh  
