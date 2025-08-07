@@ -45,8 +45,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=FarhanAfrad1)](https://git.io/streak-stats)
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=FarhanAfrad1&show_icons=true&theme=tokyonight" alt="Farhan's GitHub Stats" />
 </p>
 
@@ -54,9 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAfrad1&layout=compact&theme=tokyonight" alt="Top Languages Used" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FarhanAfrad1&theme=tokyonight&border_radius=5&mode=weekly" alt="GitHub Streak" />
-</p>
 
 ---
 
