@@ -44,6 +44,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAfrad1&show_icons=true&theme=tokyonight" alt="Farhan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAfrad1&layout=compact&theme=tokyonight" alt="Top Languages Used" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FarhanAfrad1&theme=tokyonight&border_radius=5&mode=weekly" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 - 📫 Email: farhan.afrad.cse@gmail.com  
@@ -53,11 +69,5 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarhanAfrad1&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAfrad1&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=FarhanAfrad1&theme=default)](https://git.io/streak-stats)
-
----
 
