@@ -50,9 +50,9 @@
 
 ## 📬 Contact Me
 
-- 📫 Email: **farhan.tanmoy13@gmail.com**  
+- 📫 Email: **farhan.t.tanmoy@gmail.com**  
 - 🔗 Portfolio: [myportfolio.com](https://myportfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/farhanafrad](https://linkedin.com/in/farhanafrad)  
+- 💼 LinkedIn: [linkedin.com/in/farhanafrad](www.linkedin.com/in/farhan-afrad)  
 - 🗂 GitHub: [FarhanAfrad1](https://github.com/FarhanAfrad1) 
 
 ---
