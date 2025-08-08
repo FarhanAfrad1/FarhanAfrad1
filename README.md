@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/FarhanAfrad1/FarhanAfrad1/main/banner.jpg)
 
-# 👋 Hi, I'm Farhan Shahriar Afrad
-<h3 align="center">Aspiring MERN Stack & AI/ML Developer</h3>
+<h1 align="center">👋 Hi, I'm Farhan Shahriar Afrad</h1>
+<h3 align="center">Aspiring Frontent Developer</h3>
 
 ---
 
