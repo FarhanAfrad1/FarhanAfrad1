@@ -50,7 +50,7 @@
 
 ## 📬 Contact Me
 
-- 📫 Email: **farhan.afrad.cse@gmail.com**  
+- 📫 Email: **farhan.tanmoy13@gmail.com**  
 - 🔗 Portfolio: [myportfolio.com](https://myportfolio.com)  
 - 💼 LinkedIn: [linkedin.com/in/farhanafrad](https://linkedin.com/in/farhanafrad)  
 - 🗂 GitHub: [FarhanAfrad1](https://github.com/FarhanAfrad1) 
