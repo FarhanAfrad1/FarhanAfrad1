@@ -44,19 +44,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAfrad1&show_icons=true&theme=tokyonight" alt="Farhan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAfrad1&layout=compact&theme=tokyonight" alt="Top Languages Used" />
-</p>
 
 
 ---
 
 ## 📬 Contact Me
+
 - 📫 Email: **farhan.afrad.cse@gmail.com**  
 - 🔗 Portfolio: [myportfolio.com](https://myportfolio.com)  
 - 💼 LinkedIn: [linkedin.com/in/farhanafrad](https://linkedin.com/in/farhanafrad)  
@@ -66,3 +59,11 @@
 
 
 
+## 📊 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAfrad1&show_icons=true&theme=tokyonight" alt="Farhan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanAfrad1&layout=compact&theme=tokyonight" alt="Top Languages Used" />
+</p>
